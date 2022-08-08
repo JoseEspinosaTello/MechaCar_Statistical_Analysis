@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-![MlinearR](https://github.com/JoseEspinosaTello/bikesharing/blob/main/Resources/images/genderStart1.png)
+![MlinearR](https://github.com/JoseEspinosaTello/MechaCar_Statistical_Analysis/blob/main/Resources/MlinearR.png)
 
 After examining the results, we are able to see that vehicle length and ground clearance are unlikely to provide random amounts of variance to the intercept (mpg). The p-values of both vehicle length and ground clearance have a significance level much lower that the assume significance level of .05%, meaning they are statistically unlikely to create random amounts of variance to the linear regression model. In contrast vehicle weight, spoiler angle, and AWD all sit above the assumed significance level and are likely to create random amounts of variance.
 
